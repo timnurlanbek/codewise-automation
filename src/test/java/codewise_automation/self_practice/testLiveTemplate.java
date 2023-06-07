@@ -14,7 +14,6 @@ public class testLiveTemplate {
         driver.get("https://www.cashwise.us.com");
         WebElement click = driver.findElement(By.id("travel"));
         click.click();
-
     }
 
     }
